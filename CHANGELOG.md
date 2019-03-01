@@ -1,3 +1,6 @@
+## 9.0.1
+- Fix TS error
+
 ## 9.0.0
 
 - [Breaking] Require React 15.3+
